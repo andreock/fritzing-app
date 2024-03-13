@@ -51,7 +51,7 @@ along with Fritzing.  If not, see <http://www.gnu.org/licenses/>.
 #include "../items/perfboard.h"
 #include "../items/partlabel.h"
 
-#include <ngspice/sharedspice.h>
+#include <sharedspice.h>
 
 #include <iostream>
 

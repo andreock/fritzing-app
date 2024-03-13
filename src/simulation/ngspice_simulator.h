@@ -21,7 +21,7 @@ along with Fritzing.  If not, see <http://www.gnu.org/licenses/>.
 #ifndef NGSPICE_SIMULATOR_H
 #define NGSPICE_SIMULATOR_H
 
-#include <ngspice/sharedspice.h>
+#include <sharedspice.h>
 
 #include <map>
 #include <memory>

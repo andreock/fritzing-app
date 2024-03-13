@@ -35,8 +35,8 @@ along with Fritzing.  If not, see <http://www.gnu.org/licenses/>.
 #include <QStandardPaths>
 
 #include "../debugdialog.h"
-#include <quazip/quazip.h>
-#include <quazip/quazipfile.h>
+#include <quazip.h>
+#include <quazipfile.h>
 
 
 FolderUtils* FolderUtils::singleton = nullptr;
